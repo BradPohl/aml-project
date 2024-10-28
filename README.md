@@ -19,6 +19,7 @@ The aim of this project is to detect and classify specific actions (punches, kic
 
 Your dataset should follow this structure within the project directory:
 
+```plaintext
 dataset/
 ├── downtime/
 │   ├── downtime1.mov
@@ -32,7 +33,7 @@ dataset/
     ├── kick1.mov
     ├── kick2.mov
     └── ...
-
+```
 
 ## Installation
 git clone https://github.com/yourusername/punching-bag-action-detection.git
