@@ -7,9 +7,8 @@ This project uses a Convolutional Neural Network (CNN) along with pose estimatio
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Directory Structure](#directory-structure)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Dataset Preparation](#dataset-preparation)
+3. [Usage](#usage)
+4. [Dataset Preparation](#dataset-preparation)
 
 
 ## Project Overview
@@ -34,10 +33,6 @@ dataset/
     ├── kick2.mov
     └── ...
 ```
-
-## Installation
-git clone https://github.com/yourusername/punching-bag-action-detection.git
-cd punching-bag-action-detection
 
 Install Dependencies:
 pip install -r requirements.txt
